@@ -1,0 +1,1 @@
+Ho creato un programma in  grado di riuscire a gestire un piccolo labirinto nel quale possiamo raggiungere ogni nodo da qualsiasi altro nodo sconosciuto
